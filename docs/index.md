@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# 278782.github.io
+# Naglowek
 
-You can use the [editor on GitHub](https://github.com/mpniewskii/278782.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+paragraf 1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+paragraf 2
 
-### Markdown
+paragraf 3
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**wazneeeeeee**
 
-```markdown
-Syntax highlighted code block
+*meoooooooow*
 
-# Header 1
-## Header 2
-### Header 3
+~byleco~
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+> Neither in this world nor elsewhere is there any happiness in store for him who always doubts.
 ```
+ def(piwko):
+ print("piwoooooo")
+ print("dzieeeeeeekan")
+ ```
+1. Jeden
+2. Dwa
+3. Trzy
+    1. Piwo
+    2. Gniazdo
+4. Cztery
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Jeden
+- Dwa
+- Trzy
+    - Piwo
+    - Gniazdo
+- Cztery
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mpniewskii/278782.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Mamy sobie tekst i cos piszemy
+`print("piwoooooo")`
+ I piszemy se dalej. Nie wiem czy to dobre zagnieżdżenie, ale cóż.
+ 
+ ![alt](https://github.com/mpniewskii/WDP-2021-Marcin-Pniewski/blob/283985c7cc65ae86c3dbbd9702d77abbbfadec63/Zaskroniec/Tlo.jpg)	
